@@ -2,7 +2,7 @@
 
 ## Folders
 
-### 1. Hangman challenge
+### 1. hangman_challenge
 
 First challenge: 06/10/2020
 
