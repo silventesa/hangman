@@ -1,4 +1,4 @@
-# Challenges from becode
+# Challenges from BeCode (Bouman 2.2)
 
 ## Folders
 
