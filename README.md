@@ -1,9 +1,7 @@
-# Challenges from BeCode (Bouman 2.2)
+# Hangman challenge
 
-## Folders
+[First individual challenge from Becode (Bouman 2.2. promotion).]
 
-### 1. hangman_challenge
-
-First challenge: 06/10/2020
+This project contains a python script to play to the classical hangman game. 
 
 Run `main.py` file in the terminal with `python3`
